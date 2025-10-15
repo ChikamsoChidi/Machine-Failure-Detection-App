@@ -28,6 +28,10 @@ pip install customtkinter pandas scikit-learn
 
 *(Note: `scikit-learn` is required to correctly load the `model.pkl` file.)*
 
+![Application Screenshot](assets/Screenshot 2025-10-15 024621.png)
+
+![Application Screenshot](assets/Screenshot 2025-10-15 024806.png)
+
 ### Repository Structure
 
 To run the application, the following files must be in the same root directory:
